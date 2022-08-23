@@ -1,0 +1,86 @@
+.background-electric {
+    background-image: url(/public/img/Electric.png);
+
+}
+
+.background-normal {
+    background-image: url(/public/img/Normal.png);
+
+}
+
+.background-fire {
+    background-image: url(/public/img/Fire.png);
+}
+
+.background-fairy {
+    background-image: url(/public/img/Fairy.png);
+}
+
+
+.background-water {
+    background-image: url(/public/img/water.png);
+
+}
+
+.background-ice {
+    background-image: url(/public/img/Ice.png)
+}
+
+.background-rock {
+    background-image: url(/public/img/Rock.png);
+}
+
+.background-flying {
+    background-image: url(/public/img/Fliying.png)
+}
+
+.background-grass {
+    background-image: url(/public/img/Grass.png);
+    background-position: bottom;
+}
+
+.background-psychic {
+    background-image: url(/public/img/physic.png);
+}
+
+.background-ghost {
+    background-image: url(/public/img/Ghost.png);
+}
+
+.background-bug {
+    background-image: url(/public/img/Bug.png)
+}
+
+.background-poison {
+    background-image: url(/public/img/Poison.png);
+}
+
+.background-ground {
+    background-image: url(/public/img/Ground.png);
+}
+
+.background-dragon {
+    background-image: url(/public/img/DrAGON.png);
+}
+
+.background-steel {
+    background-image: url(/public/img/sTEEL.png);
+}
+
+.background-fighting {
+    background-image: url(/public/img/Fight.png);
+}
+
+.pokemon-heart-btn{
+    background: transparent;
+    border: none;
+    font-weight: bold;
+}
+.pokemon-heart-btn:hover{
+    cursor: pointer;
+
+}
+.pokebola-button{
+    width: 20px;
+    padding: 0;
+}
