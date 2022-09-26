@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pokedex/static/css/main.fd1dbb95.css",
+    "main.js": "/pokedex/static/js/main.8722d796.js",
+    "static/media/Grass.png": "/pokedex/static/media/Grass.a199beefe178d6dcbddb.png",
+    "static/media/sTEEL.png": "/pokedex/static/media/sTEEL.56b708c53b0fb0c7f6a3.png",
+    "static/media/Ghost.png": "/pokedex/static/media/Ghost.a4fe8cc0f2c0e853e735.png",
+    "static/media/Poison.png": "/pokedex/static/media/Poison.af7bcdcc08128630d558.png",
+    "static/media/DrAGON.png": "/pokedex/static/media/DrAGON.38b220c1e434bb268bc3.png",
+    "static/media/water.png": "/pokedex/static/media/water.b0c932ed350c54dcc243.png",
+    "static/media/Fire.png": "/pokedex/static/media/Fire.94e014010d6c0056ea73.png",
+    "static/media/Ground.png": "/pokedex/static/media/Ground.97ab75b7b37c24c5cc49.png",
+    "static/media/Fliying.png": "/pokedex/static/media/Fliying.164ef90bb8d582b227f8.png",
+    "static/media/Electric.png": "/pokedex/static/media/Electric.4779804f76929b04ac94.png",
+    "static/media/Normal.png": "/pokedex/static/media/Normal.e5a083dcf22d3039b7d9.png",
+    "static/media/Bug.png": "/pokedex/static/media/Bug.0a3a9e7f2ff99425aefe.png",
+    "static/media/Ice.png": "/pokedex/static/media/Ice.54dd530932e38edddb0c.png",
+    "static/media/physic.png": "/pokedex/static/media/physic.18f036635bef65ae3654.png",
+    "static/media/Fairy.png": "/pokedex/static/media/Fairy.b05e82d59fd5be7a7043.png",
+    "static/media/Rock.png": "/pokedex/static/media/Rock.286fa24c980e3c97b3c4.png",
+    "static/media/Fight.png": "/pokedex/static/media/Fight.2b7a8e37d0154e7b66fa.png",
+    "index.html": "/pokedex/index.html",
+    "main.fd1dbb95.css.map": "/pokedex/static/css/main.fd1dbb95.css.map",
+    "main.8722d796.js.map": "/pokedex/static/js/main.8722d796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1dbb95.css",
+    "static/js/main.8722d796.js"
+  ]
+}
